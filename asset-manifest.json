@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/phosagro-form/static/css/main.764a8c14.chunk.css",
+    "main.js": "/phosagro-form/static/js/main.55010692.chunk.js",
+    "main.js.map": "/phosagro-form/static/js/main.55010692.chunk.js.map",
+    "runtime-main.js": "/phosagro-form/static/js/runtime-main.9f8fe995.js",
+    "runtime-main.js.map": "/phosagro-form/static/js/runtime-main.9f8fe995.js.map",
+    "static/js/2.fba128bc.chunk.js": "/phosagro-form/static/js/2.fba128bc.chunk.js",
+    "static/js/2.fba128bc.chunk.js.map": "/phosagro-form/static/js/2.fba128bc.chunk.js.map",
+    "static/js/3.d11fb730.chunk.js": "/phosagro-form/static/js/3.d11fb730.chunk.js",
+    "static/js/3.d11fb730.chunk.js.map": "/phosagro-form/static/js/3.d11fb730.chunk.js.map",
+    "index.html": "/phosagro-form/index.html",
+    "static/css/main.764a8c14.chunk.css.map": "/phosagro-form/static/css/main.764a8c14.chunk.css.map",
+    "static/js/2.fba128bc.chunk.js.LICENSE.txt": "/phosagro-form/static/js/2.fba128bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f8fe995.js",
+    "static/js/2.fba128bc.chunk.js",
+    "static/css/main.764a8c14.chunk.css",
+    "static/js/main.55010692.chunk.js"
+  ]
+}
